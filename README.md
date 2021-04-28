@@ -1,1 +1,1 @@
-# Technocolabs
+# Techonocolabs-MiniProject
