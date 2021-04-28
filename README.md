@@ -1,1 +1,3 @@
-# Techonocolabs-MiniProject
+## Techonocolabs
+# Mini Project
+by Harsh Vijay Shrivstava
